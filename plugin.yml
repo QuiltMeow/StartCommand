@@ -1,0 +1,9 @@
+name: StartCommand
+main: ew.sr.x1c.quilt.meow.plugin.start.command.Main
+version: 0.02
+author: EW_Quilt
+website: http://www.quilt.idv.tw/
+description: 伺服器啟動或玩家加入遊戲時自動執行指令
+commands:
+    startcommand:
+        description: Start Command 控制指令

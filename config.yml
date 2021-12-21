@@ -1,0 +1,7 @@
+command:
+    - say 歡迎使用 Start Command 插件 請修改設定檔案 !
+player-join-command-enable: false
+wait-before-start-command-second: 30
+execute-as-player: false
+player-join-command:
+    - say Hi !
